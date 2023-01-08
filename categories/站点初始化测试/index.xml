@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>破水谈</title><link>https://hades300.github.io/</link><description>Recent content on 破水谈</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hades300.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>测试hugo相关语法</title><link>https://hades300.github.io/p/hugo-learn/</link><pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate><guid>https://hades300.github.io/p/hugo-learn/</guid><description>&lt;h2 id="测试emjoy">测试Emjoy&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>站点初始化测试 on 破水谈</title><link>https://hades300.github.io/categories/%E7%AB%99%E7%82%B9%E5%88%9D%E5%A7%8B%E5%8C%96%E6%B5%8B%E8%AF%95/</link><description>Recent content in 站点初始化测试 on 破水谈</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hades300.github.io/categories/%E7%AB%99%E7%82%B9%E5%88%9D%E5%A7%8B%E5%8C%96%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml"/><item><title>测试hugo相关语法</title><link>https://hades300.github.io/p/hugo-learn/</link><pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate><guid>https://hades300.github.io/p/hugo-learn/</guid><description>&lt;h2 id="测试emjoy">测试Emjoy&lt;/h2>
 &lt;p>😄 你好&lt;/p>
 &lt;h2 id="测试外链">测试外链&lt;/h2>
 &lt;div class="video-wrapper">
@@ -9,7 +9,7 @@ framespacing="0"
 allowfullscreen="true"
 >
 &lt;/iframe>
-&lt;/div></description></item><item><title>归档</title><link>https://hades300.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://hades300.github.io/archives/</guid><description/></item><item><title>Markdown Syntax Guide</title><link>https://hades300.github.io/p/markdown-syntax-guide/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://hades300.github.io/p/markdown-syntax-guide/</guid><description>&lt;img src="https://hades300.github.io/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" />&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
+&lt;/div></description></item><item><title>Markdown Syntax Guide</title><link>https://hades300.github.io/p/markdown-syntax-guide/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://hades300.github.io/p/markdown-syntax-guide/</guid><description>&lt;img src="https://hades300.github.io/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" />&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
 &lt;h2 id="headings">Headings&lt;/h2>
 &lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
 &lt;h1 id="h1">H1&lt;/h1>
@@ -225,22 +225,4 @@ alt="Google"
 >talk&lt;/a> during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Links</title><link>https://hades300.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hades300.github.io/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
-&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">Hades300&lt;/span>&lt;span class="w">
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">会关注一些有意思的技术.&lt;/span>&lt;span class="w">
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com/hades300&lt;/span>&lt;span class="w">
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>关于</title><link>https://hades300.github.io/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hades300.github.io/%E5%85%B3%E4%BA%8E/</guid><description>&lt;p>This is a test page for i18n support.&lt;/p></description></item><item><title>搜索</title><link>https://hades300.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hades300.github.io/search/</guid><description/></item></channel></rss>
+&lt;/div></description></item></channel></rss>
