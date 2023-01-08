@@ -4,7 +4,7 @@ description: 如题
 date: 2022-05-12
 slug: hugo-learn
 categories:
-    - 测试
+    - 站点初始化测试
 draft: false
 ---
 
